@@ -1,3 +1,8 @@
 Testar projekt
 
-Här är mitten av det testade projektet
+
+testar nya funktioner
+
+HÃ¤r Ã¤r mitten av det testade projektet
+
+main
